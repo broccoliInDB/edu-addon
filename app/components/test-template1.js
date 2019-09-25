@@ -1,0 +1,1 @@
+export { default } from 'edu-addon/components/test-template1';
